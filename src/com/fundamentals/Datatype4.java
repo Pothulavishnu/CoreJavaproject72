@@ -3,7 +3,7 @@ package com.fundamentals;
 
 //==operates checks content if it is primitive data types.
 //==operates checks object address if it is object data types.
-//if we wnt compare  the content of string object will use.equals()method from string
+//if we want compare  the content of string object will use.equals()method from string
 public class Datatype4 {
         
 	public static void main(String[] args) {
